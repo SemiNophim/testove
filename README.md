@@ -30,8 +30,6 @@
 
 `g++ main.cpp CommandList.cpp Filedriver.cpp Product.cpp Cart.cpp -o test`
 
-> **Примітка:** Заголовочні файли (`.h`) підключаються через `#include` у коді, тому їх **не потрібно** вказувати в команді компіляції.
-
 ---
 
 ## Запуск програми (Execution)
